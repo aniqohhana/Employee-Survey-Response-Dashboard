@@ -1,4 +1,4 @@
-# Analysis of Employee Survey Responses
+# Employee Survey Responses Dashboard
 The [dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=6&pageSize=5) is actual responses from an employee engagement survey conducted by Pierce County WA and completed voluntarily by government employees. 
 This dataset consists 10 fields as response id, status, department, director, manager, supervisor, staff, question, response, and response text.
 
